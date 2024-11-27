@@ -1,0 +1,30 @@
+GameScape/
+│
+├── Assets/                # Contains all game assets (textures, models, sounds, etc.)
+│   ├── Scripts/           # All game code (C# scripts)
+│   │  PlayerController.cs
+│   │    TerrainGenerator.cs
+│   │    NPCBehavior.cs
+│   ├── Models/            # 3D models for your game world
+│   ├── Materials/         # Materials for textures
+│   └── Sounds/            # Sound effects and music
+│
+├── Scenes/                # Game scenes (level maps, main menu, etc.)
+│   └── MainScene.unity
+│
+└── GameScape.csproj       # Project file for Unity or other game engines
+GameScape/
+│
+├── Assets/                # Contains all game assets (textures, models, sounds, etc.)
+│   ├── Scripts/           # All game code (C# scripts)
+│   │   ├── PlayerController.cs
+│   │   ├── TerrainGenerator.cs
+│   │   └── NPCBehavior.cs
+│   ├── Models/            # 3D models for your game world
+│   ├── Materials/         # Materials for textures
+│   └── Sounds/            # Sound effects and music
+│
+├── Scenes/                # Game scenes (level maps, main menu, etc.)
+│   └── MainScene.unity
+│
+└── GameScape.csproj       # Project file for Unity or other game engines
