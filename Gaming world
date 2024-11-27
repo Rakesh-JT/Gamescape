@@ -1,0 +1,25 @@
+# GameScape
+
+GameScape is an open-world game engine where you can create and explore dynamic, procedurally generated worlds. The game features a robust environment generator, real-time multiplayer support, and endless landscapes to explore.
+
+## Features
+- Procedurally generated terrain using Perlin Noise
+- Real-time multiplayer support (coming soon!)
+- NPCs with basic AI
+- Inventory and quest systems
+
+## Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/GameScape.git
+
+---
+
+### 7. **Next Steps:**
+- Start small with a basic terrain generator and player controls.
+- Gradually add complexity: build NPCs, items, and quests, and then scale it up.
+- Consider adding multiplayer functionality and dynamic events to increase player interaction.
+
+If you'd like help with specific coding problems or need more guidance on certain aspects of your game, let me know!
+
